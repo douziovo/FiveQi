@@ -37,4 +37,4 @@ src/
 
 ## 技术栈
 
-React 19 · react-router 8 · Vite 8 · oxlint
+React 19 · react-router 8 · Vite 8 · oxlint · pnpm
